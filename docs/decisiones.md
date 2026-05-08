@@ -72,3 +72,7 @@ Se definió la diversidad como la **desviación estándar del fitness** (usando 
 - **numpy**: operaciones vectoriales y generación aleatoria
 - **matplotlib**: gráficas de convergencia
 - **pandas**: generación y exportación del CSV de resultados
+
+## Observaciones
+- El elitismo alto (k=5) reduce la diversidad significativamente.
+- La transformacion por inversion fue la mas estable numericamente.
