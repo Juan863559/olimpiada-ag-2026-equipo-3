@@ -82,3 +82,4 @@ Genera automáticamente:
 ## Decisiones Técnicas
 
 Ver [`docs/decisiones.md`](docs/decisiones.md) para detalles completos sobre las decisiones de implementación.
+## Documentación técnica
