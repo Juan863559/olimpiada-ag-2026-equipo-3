@@ -2,11 +2,7 @@
 
 ## Integrantes
 
- - Juan José Figueroa Rodriguez	jfigueroa37@ucol.mx
- - Dante Heriberto González González	dgonzalez106@ucol.mx
- - Karla Sofía Jiménez Ceja	kjimenez2@ucol.mx
  - Cesar Daniel Morales Ramirez	cmorales17@ucol.mx
- - Leonardo Gael Ramos Pimienta	lramos19@ucol.mx
  - Juan Pablo Rodriguez Garcia	jrodriguez142@ucol.mx
  - Ángel Roberto Rodríguez Miranda	arodriguez114@ucol.mx
 
