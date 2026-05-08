@@ -1,4 +1,4 @@
-# Olimpiada AG 2026 — Equipo X
+# Olimpiada AG 2026 — Equipo 3
 
 ## Integrantes
 
