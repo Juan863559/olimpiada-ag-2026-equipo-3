@@ -83,3 +83,6 @@ Genera automáticamente:
 
 Ver [`docs/decisiones.md`](docs/decisiones.md) para detalles completos sobre las decisiones de implementación.
 ## Documentación técnica
+
+## Resultados Principales
+Se compararon 9 configuraciones (3 transformaciones × 3 niveles de elitismo). El ranking lineal con k=0 obtuvo la mejor convergencia.
